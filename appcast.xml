@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MiniNotion</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 29 Dec 2025 21:57:13 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="MiniNotion_1.0.0.zip" length="6243719" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
