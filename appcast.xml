@@ -3,12 +3,23 @@
     <channel>
         <title>MiniNotion</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Mon, 29 Dec 2025 21:57:13 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Mon, 29 Dec 2025 23:08:45 +0900</pubDate>
+            <sparkle:version>1.0.4</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="MiniNotion_1.0.0.zip" length="6243719" type="application/octet-stream"/>
+            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.4.zip" length="6243834" type="application/octet-stream" sparkle:edSignature="v7ufng/cJwwMfVc/EJ9d29ZrsVggGkwwS7bEunEFceNmH0Gm4uwA9c+mSpwmJuUwHet+I6dBmBhxO6JgtI3jAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion1.0.4-1.0.3.delta" sparkle:deltaFrom="1.0.3" length="12826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f8C2g2RYc+6/0bmPsdk+oeco6G1x7rRApWdvWlsV1Amcp7aPLpxm5CN7/iQH0NTdg2AbEztNQM4RBRqNAgt7DA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Mon, 29 Dec 2025 23:00:27 +0900</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.3.zip" length="6243824" type="application/octet-stream" sparkle:edSignature="ve5Iyfa10Ydt9hP2zqNnkAIMJGpWjhbpF4wUakeUWn/bJwJEigBurf5hgf/R8/MFO/x8HPD5mChGqHx/xfhAAQ=="/>
         </item>
     </channel>
 </rss>
