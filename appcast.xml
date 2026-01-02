@@ -9,9 +9,6 @@
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.7.zip" length="6244114" type="application/octet-stream" sparkle:edSignature="yCCl6DIAL6Z2ZbvEl8hKjKjv/P3nOw1xZnWBeC3nx1gkiUJ2Bj63t6qm6oSRs1dKtkThbireGzmsr3Qq4+AGCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion1.0.7-1.0.6.delta" sparkle:deltaFrom="1.0.6" length="11722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="litQDap233Wpqkh+2My5S1S06S8MVd00Rp2eQjJ1+wj3nnA7q3w3i19lqY0NF7sR396VxFdHGH4rStHl3j3DCA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.6</title>
