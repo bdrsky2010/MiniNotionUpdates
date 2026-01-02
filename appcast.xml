@@ -4,19 +4,11 @@
         <title>MiniNotion</title>
         <item>
             <title>1.0.4</title>
-            <pubDate>Mon, 29 Dec 2025 23:08:45 +0900</pubDate>
+            <pubDate>Fri, 02 Jan 2026 17:23:51 +0900</pubDate>
             <sparkle:version>1.0.4</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.4.zip" length="6243834" type="application/octet-stream" sparkle:edSignature="v7ufng/cJwwMfVc/EJ9d29ZrsVggGkwwS7bEunEFceNmH0Gm4uwA9c+mSpwmJuUwHet+I6dBmBhxO6JgtI3jAQ=="/>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Mon, 29 Dec 2025 23:00:27 +0900</pubDate>
-            <sparkle:version>1.0.3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.3.zip" length="6243824" type="application/octet-stream" sparkle:edSignature="ve5Iyfa10Ydt9hP2zqNnkAIMJGpWjhbpF4wUakeUWn/bJwJEigBurf5hgf/R8/MFO/x8HPD5mChGqHx/xfhAAQ=="/>
+            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.4.zip" length="6244016" type="application/octet-stream" sparkle:edSignature="oiovAoYCWVAx3W+kHy6ko1jdLsRo7sm2TCbdjFn4xSWlPIgMU6CxEJg/fA0GHSEvnBJLynr59DepjgTo0RYDBg=="/>
         </item>
     </channel>
 </rss>
