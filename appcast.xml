@@ -3,20 +3,20 @@
     <channel>
         <title>MiniNotion</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Fri, 02 Jan 2026 19:32:12 +0900</pubDate>
+            <sparkle:version>1.0.8</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.8.zip" length="6244175" type="application/octet-stream" sparkle:edSignature="BrGE0w9bvM0fpdWwJJ9zuonnOny9DVAstsx/zknmNu9GdKhSixps5gwYbZ7zoyBPXu4scw9dshJ2yFR9Yqn2DQ=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
-            <pubDate>Fri, 02 Jan 2026 19:15:22 +0900</pubDate>
+            <pubDate>Fri, 02 Jan 2026 19:30:14 +0900</pubDate>
             <sparkle:version>1.0.7</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.7.zip" length="6244114" type="application/octet-stream" sparkle:edSignature="yCCl6DIAL6Z2ZbvEl8hKjKjv/P3nOw1xZnWBeC3nx1gkiUJ2Bj63t6qm6oSRs1dKtkThbireGzmsr3Qq4+AGCA=="/>
-        </item>
-        <item>
-            <title>1.0.6</title>
-            <pubDate>Fri, 02 Jan 2026 19:13:19 +0900</pubDate>
-            <sparkle:version>1.0.6</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.6.zip" length="6244081" type="application/octet-stream" sparkle:edSignature="tLEF4botnTeVJROsRZUON1hqvVE3FlS/h+8oHrlN/2z8AlNv1gAP0OgVFnWENYLftC4qqUyovaTLFSfNvlxmCg=="/>
+            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.7.zip" length="6244154" type="application/octet-stream" sparkle:edSignature="nX/EsaHJG98vNhxdetIgFDxH+/WDofaftQtR3/TbL5QYcwKR2s6wBp+u7K+kOwz8fyhB7DT0iSiOZ8OOsInuDA=="/>
         </item>
     </channel>
 </rss>
