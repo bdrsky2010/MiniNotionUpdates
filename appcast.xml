@@ -3,12 +3,12 @@
     <channel>
         <title>MiniNotion</title>
         <item>
-            <title>1.0.18</title>
-            <pubDate>Sun, 04 Jan 2026 16:33:11 +0000</pubDate>
-            <sparkle:version>1.0.18</sparkle:version>
-            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <title>1.0.19</title>
+            <pubDate>Sun, 04 Jan 2026 16:39:20 +0000</pubDate>
+            <sparkle:version>1.0.19</sparkle:version>
+            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.18.zip" length="6371474" type="application/octet-stream" sparkle:edSignature="7X8FUO9P5iZETV/g2GeP1w5KmFzssbqMSojCTvI7Z/97UxNwkH5uD79anyIr++SnuSb6JSamXDCAgheOhGYCDQ=="/>
+            <enclosure url="https://bdrsky2010.github.io/MiniNotionUpdates/MiniNotion_1.0.19.zip" length="6371502" type="application/octet-stream" sparkle:edSignature="gXAuqX4R6PLR28Mb5hghWlKuHhP+Ls2UUlZGfqYmBCSYfs9evS+A1+hRFeQM/RT6g3DTJhXWTV2kbelDAruCAA=="/>
         </item>
     </channel>
 </rss>
